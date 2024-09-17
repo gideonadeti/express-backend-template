@@ -1,7 +1,7 @@
 {
-  "name": "express-backend-template",
+  "name": "name",
   "version": "1.0.0",
-  "description": "A template for setting up the backend of projects using Express.",
+  "description": "description",
   "main": "build/index.js",
   "scripts": {
     "start": "node build/index.js",
