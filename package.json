@@ -12,6 +12,7 @@
   "author": "Gideon Adeti",
   "license": "MIT",
   "dependencies": {
+    "@prisma/client": "^6.0.1",
     "cookie-parser": "^1.4.6",
     "cors": "^2.8.5",
     "dotenv": "^16.4.5",
@@ -26,6 +27,7 @@
     "@types/morgan": "^1.9.9",
     "@types/node": "^22.5.4",
     "nodemon": "^3.1.4",
+    "prisma": "^6.0.1",
     "ts-node": "^10.9.2",
     "typescript": "^5.5.4"
   }
